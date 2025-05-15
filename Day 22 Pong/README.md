@@ -1,4 +1,4 @@
-# Day 22 - Pong Game: Part 1
+# Day 22 - Pong Game
 
 ## What I Learned
 
